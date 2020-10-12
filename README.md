@@ -2,4 +2,4 @@
 
 * Listi þar sem þú getur eytt, lagað og bætt á listann, 
 
-* Live demo linkur https://
+* Live demo linkur https://DOM-travel-dest-project.surge.sh
