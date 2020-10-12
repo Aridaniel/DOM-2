@@ -1,0 +1,20 @@
+li {
+    cursor: pointer;
+    list-style: none;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+body
+{
+    text-align: center;
+background-color: orange;}
+
+h2
+{
+    background-color: orangered;
+   
+   
+}
